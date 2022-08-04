@@ -13,7 +13,7 @@ ________________________________________________________________________________
 
 # KEYBOARD libraries
 
-#
+# Pre-built CPU-only OpenCV packages
 import cv2
 
 # extract Pdf data
