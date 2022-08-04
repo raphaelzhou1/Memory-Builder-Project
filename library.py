@@ -22,3 +22,5 @@ from invoice2data import extract_data
 # optical character recognition (OCR) tool; wrapper for Google’s Tesseract-OCR Engine
 # https://pypi.org/project/pytesseract/
 from PIL import Image
+import pytesseract
+
